@@ -3,7 +3,7 @@ COVID-19 high-risk country analysis using SAS and Tableau
 
 **Author:** Gayathri Karthikeyan, BDS, MPH  
 **Tools:** SAS (Data Cleaning, SQL, Macros, Statistical Analysis), Tableau (Visualization)  
-**Date:** August 2025  
+**Date:** 12th August 2025  
 
 ---
 
@@ -17,15 +17,6 @@ The workflow integrates **SAS** for data processing and statistical analysis, an
 - Develop reproducible analysis pipelines using SAS and create an interactive Tableau dashboard for insights
 
 ---
-
-##  Project Structure
-COVID19_Global_Surveillance_2025/
-│
-├── Project.sas # SAS script with full analysis workflow
-├── Dashboard.twbx # Tableau packaged workbook (interactive dashboard)
-├── README.md # Project documentation
-└── Presentation.pptx # Project summary presentation
-
 
 ## Data Source
 - **Dataset:** Kaggle Open Data Repository (COVID-19 Statistics 2025 snapshot)  
