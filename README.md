@@ -1,6 +1,5 @@
 # COVID19_Global_Surveillance_2025
 COVID-19 high-risk country analysis using SAS and Tableau
-# COVID-19 Global Surveillance 2025
 
 **Author:** Gayathri Karthikeyan, BDS, MPH  
 **Tools:** SAS (Data Cleaning, SQL, Macros, Statistical Analysis), Tableau (Visualization)  
