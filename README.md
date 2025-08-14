@@ -91,7 +91,7 @@ You can adjust `ods excel file="..."` to point to your own outputs directory.
 
 ---
 
-## ▶ How to Run
+##  How to Run
 1. **Place the CSV** in a known path (e.g., `data/Covid_stats_Jan2025.csv`).
 2. **Open `Project.sas`** in SAS (SAS 9.4 or SAS OnDemand).
 3. **Update paths** in:
