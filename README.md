@@ -5,16 +5,6 @@ A reproducible SAS workflow analyzing a January 2025 country-level COVID-19 data
 It showcases **SQL-based exploration, descriptive statistics, Spearman rank correlation, and logistic regression** (with basic feature engineering), plus automated **ODS Excel** reporting.
 
 ---
-
-##  Repository Contents
-- `Project.sas` — main SAS script (import → EDA → correlation → modeling → ODS export).
-- `data/` — place your input CSV here (e.g., `Covid_stats_Jan2025.csv`).
-- `outputs/` — optional folder for Excel exports/screenshots (created by you).
-
-> **Note:** The script uses a SAS library path under your home directory. Update paths as needed.
-
----
-
 ##  Data
 - **Expected file:** `Covid_stats_Jan2025.csv`
 - **Unit of analysis:** Country
